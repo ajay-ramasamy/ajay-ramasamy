@@ -64,20 +64,20 @@
 ---
 
 ## 📊 Activity Graph
-![Ajay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayJ&theme=react-dark)
+![Ajay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ajay-ramasamy&theme=react-dark)
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/ajay-ramasamy-j">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:youremail@gmail.com">
+  <a href="mailto:ajayem1222@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
 </p>
 

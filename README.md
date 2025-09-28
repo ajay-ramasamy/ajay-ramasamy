@@ -60,6 +60,10 @@
   </tr>
 </table>
 
+
+## Achievements
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ajayram25?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/ajayram25/)
+
 ##  GitHub Stats
 ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajay-ramasamy&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-ramasamy&layout=compact&theme=radical)
@@ -68,12 +72,6 @@
 
 
 
-## 🏆 Achievements
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ajayram25?theme=dark&font=Baloo&ext=heatmap)](https://leetcode.com/u/ajayram25/)
-
-- Completed multiple **Data Science & ML mini-projects**
-- Participated in **Coding Contests & Hackathons**
-- Built AI models for **Salary Prediction** & **Healthcare solutions**
 
 
 

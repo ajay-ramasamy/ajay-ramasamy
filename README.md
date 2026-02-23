@@ -23,8 +23,8 @@
         <h2 style="color: #24292e; margin-bottom: 15px;">About Me</h2>
         <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• <strong>Java Full-Stack Developer</strong></p>
         <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• <strong>Machine Learning Enthusiast</strong></p>
-        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• <strong>CGPA:</strong> 8.79</p>
-        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• Solved <strong>400+ programming challenges</strong> on LeetCode</p>
+        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• <strong>CGPA:</strong> 8.73</p>
+        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• Solved <strong>500+ programming challenges</strong> on LeetCode</p>
         <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• Fun fact: I love building mini-projects and solving coding problems</p>
       </td>
       <!-- Coding GIF -->

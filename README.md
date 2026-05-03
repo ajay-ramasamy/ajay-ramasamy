@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ajay+Ramasamy+J+%F0%9F%91%8B;B.Tech+AI+%26+Data+Science+%7C+St.+Joseph's+College+of+Engineering;Full-Stack+Developer+%7C+React+%2B+Spring+Boot;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Ajay+Ramasamy+J+%F0%9F%91%8B;B.Tech+in+AI+%26+Data+Science;St.+Joseph's+College+of+Engineering%2C+Chennai;Full-Stack+Developer+%7C+React+%2B+Spring+Boot;GirlScript+Summer+of+Code+Contributor;LeetCode+500%2B+%7C+Codeforces+Rated)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,6 +54,7 @@ Interests   : Full-Stack Development · Machine Learning · Open Source
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 </div>
 

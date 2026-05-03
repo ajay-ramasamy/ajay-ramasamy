@@ -1,83 +1,176 @@
-![Banner](https://raw.githubusercontent.com/ajay-ramasamy/ajay-ramasamy/main/Ajay%20ramasamy%20J1.gif)
-
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ajay-ramasamy/ajay-ramasamy/main/Ajay%20ramasamy%20J1.gif" width="100%" alt="Banner"/>
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=FF5733&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Ajay+Ramasamy+J;Microsoft+Azure+Certified;Frontend+Developer;AI+%7C+ML+Enthusiast;Passionate+to+become+a+Java+FullStack+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ajay+Ramasamy+J+%F0%9F%91%8B;B.Tech+AI+%26+Data+Science+%7C+St.+Joseph's+CE;Full-Stack+Developer+%7C+React+%2B+Spring+Boot;GirlScript+Summer+of+Code+Contributor;LeetCode+500%2B+%7C+Codeforces+Rated)](https://git.io/typing-svg)
 
 </div>
 
+---
 
+## 👨‍💻 About Me
 
+```yaml
+Name        : Ajay Ramasamy J
+Degree      : B.Tech – Artificial Intelligence & Data Science
+College     : St. Joseph's College of Engineering, Chennai
+GPA         : 8.73 / 10.0
+Status      : Student (2023 – Present)
+Interests   : Full-Stack Development · Machine Learning · Open Source
+```
 
-##  About Me 
+- 🔭 Currently building full-stack projects with **React + Spring Boot**
+- 🌱 Passionate about solving real-world problems through code
+- 🤝 **GirlScript Summer of Code** Contributor
+- 🏅 **Finalist** – SRM National Hackathon 2026 (Hacklerate-26)
+- ⚡ Fun fact: I love building mini-projects and solving coding challenges
 
-<div align="center">
-  
-  <!-- Main Content Table -->
-  <table style="width: 100%; max-width: 900px; height: 300px; border: 1px solid #e1e4e8; border-radius: 10px; padding: 20px; background-color: #f6f8fa;">
-    <tr>
-      <!-- About Me Text -->
-      <td width="60%" align="left" valign="top" style="padding: 20px;">
-        <h2 style="color: #24292e; margin-bottom: 15px;">About Me</h2>
-        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• <strong>Java Full-Stack Developer</strong></p>
-        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• <strong>Machine Learning Enthusiast</strong></p>
-        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• <strong>CGPA:</strong> 8.73</p>
-        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• Solved <strong>500+ programming challenges</strong> on LeetCode</p>
-        <p style="margin: 10px 0; font-size: 16px; line-height: 1.6;">• Fun fact: I love building mini-projects and solving coding problems</p>
-      </td>
-      <!-- Coding GIF -->
-      <td width="40%" align="center" valign="middle" style="padding: 20px;">
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" height="220" alt="Coding GIF" style="border-radius: 10px;" />
-      </td>
-    </tr>
-  </table>
+---
 
-</div>
-
-
-# Tech Stack
-
-| **Frontend** | **Programming languages** | **Data Base** | **Tools** |
-|--------------|--------------------------|---------------|-----------|
-| <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40"/> |
-
-
-
-
-## LeetCode Statistics
-![LeetCode Heatmap](https://leetcard.jacoblin.cool/ajayram25?theme=dark&font=Baloo&ext=heatmap&width=800)
-
-
-
-## GitHub Stats
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajay-ramasamy&theme=radical)
+### 🖥️ Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<br>
+### ⚙️ Backend & Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ajay-ramasamy&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-ramasamy&layout=compact&theme=radical" alt="Top Languages"/>
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 </div>
 
+---
 
+## 💼 Work Experience
 
+### 🔹 Project Intern — [Terv Pro](https://tervpro.com) *(Jan 2026 – Mar 2026)*
+- Engineered a full-stack **Trainer Management System** using **React** and **Spring Boot**, enabling centralized control of trainer onboarding, schedules, and session workflows.
+- Designed scalable **RESTful APIs** and optimized frontend state management for real-time scheduling, feedback tracking, and admin operations.
+- Automated manual training processes, delivering a responsive admin interface with enhanced performance and usability.
 
+### 🔹 Frontend Development Intern — [Adviyo Technologies](https://adviyo.com) *(Jun 2025 – Jul 2025)*
+- Built responsive, user-friendly interfaces using **HTML, CSS, JavaScript, and React**.
+- Developed an **AI chatbot frontend** with dynamic UI components and real-time interaction handling.
+- Improved UI performance using reusable components and efficient state management.
 
-## Connect With Me
+---
+
+## 🚀 Projects
+
+### 📋 Task Manager
+> *React · Spring Boot · SQL*
+
+A full-stack task management system with complete **CRUD** functionality and RESTful APIs. Features real-time UI updates, scalable backend, and seamless task tracking.
+
+---
+
+### 🔍 Lucene-Based Search Engine
+> *Java · Apache Lucene*
+
+A Java web crawler that indexes webpage content and retrieves sorted, relevant results using **Apache Lucene**. Includes query parsing, content cleaning, and ranked result display.
+
+---
+
+### 🌤️ Weather Forecast Dashboard
+> *HTML · CSS · JavaScript · OpenWeather API*
+
+A responsive weather dashboard displaying real-time and **5-day forecasts** with OpenWeather API integration and robust error handling.
+
+---
+
+## 🌸 Open Source Contributions
+
+<div align="center">
+
+![GSSoC Badge](https://img.shields.io/badge/GirlScript_Summer_of_Code-Contributor-orange?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+Proud contributor to **GirlScript Summer of Code (GSSoC)** — an open source program empowering developers through meaningful contributions to real-world projects.
+
+---
+
+## 🏆 Certifications
+
+| Certification | Issuer |
+|---|---|
+| ☁️ Azure AI-900 | Microsoft |
+| 🎨 Meta Frontend Development | Coursera |
+| 🐍 Python for Data Science | NPTEL |
+
+---
+
+## 🎖️ Milestones & Achievements
+
+- 🟡 **500+ problems** solved on LeetCode
+- 📊 **1174 Global Rating** on Codeforces
+- 🏅 **Finalist** – SRM National Hackathon 2026 *(Hacklerate-26)*
+- 🌸 **GirlScript Summer of Code** – Open Source Contributor
+- 🧑‍💻 **Coordinator** of FOSS – Open Source Program
+
+---
+
+## 📊 LeetCode Statistics
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/ajayram25?theme=dark&font=Baloo&ext=heatmap&width=800)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ajay-ramasamy&theme=github-dark-blue&hide_border=true)
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ajay-ramasamy&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay-ramasamy&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-ramasamy-j)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ajayram25)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajay-ramasamy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajayem1222@gmail.com)
 
+</div>
 
+---
 
-
-## Visitor Count
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=ajay-ramasamy&color=blueviolet)
+![Visitors](https://komarev.com/ghpvc/?username=ajay-ramasamy&color=0ea5e9&style=for-the-badge&label=Profile+Views)
+
+*"Code is not just syntax — it's the bridge between ideas and impact."*
 
 </div>

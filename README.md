@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Ajay+Ramasamy+J+%F0%9F%91%8B;B.Tech+in+AI+%26+Data+Science+St.+Joseph's+College+of+Engineering%2C+Chennai;Full-Stack+Developer+%7C+React+%2B+Spring+Boot;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Ajay+Ramasamy+J+%F0%9F%91%8B;B.Tech+in+AI+%26+Data+Science+St.+Joseph's+College+of+Engineering;Full-Stack+Developer+%7C+React+%2B+Spring+Boot;)](https://git.io/typing-svg)
 
 </div>
 
